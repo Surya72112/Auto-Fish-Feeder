@@ -1,7 +1,0 @@
-// Untuk sementara testing
-{
-  "rules": {
-    ".read": true,
-    ".write": true
-  }
-}
